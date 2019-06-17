@@ -14,6 +14,8 @@ components:{
     HomeHeader
 }
 }
+
+//李进
 </script>
 
 <style lang='stylus' scoped>
